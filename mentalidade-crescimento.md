@@ -20,7 +20,7 @@ Todas as pessoas tem os dois mindsets, no entanto, um é predominante, mas isso 
 ## Mindset de crescimento na carreira
 Alguns pontos que julgo importantes:
 * Aceitar os desafios. 
-* Disposição á ouvir a todos. 
+* Disposição à ouvir a todos. 
 * Entender o feedback como uma métrica de melhoria.
 * Buscar o desenvolvimento em equipe.
 
